@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9964bcf0250f154082482aaa11c2ae6, type: 3}
+  m_Name: Sword 2
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 6277182712187100791, guid: 8649621e4f2550c46ba6080dbaee0037, type: 3}
+  type: 1
+  description: A sword wow!
+  atkBonus: 16
+  defenceBonus: 0
