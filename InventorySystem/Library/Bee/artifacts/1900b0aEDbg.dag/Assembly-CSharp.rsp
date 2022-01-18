@@ -345,6 +345,7 @@
 "Assets/Scriptable Objects/Items/Scripts/DefaultObject.cs"
 "Assets/Scriptable Objects/Items/Scripts/EquipmentObject.cs"
 "Assets/Scriptable Objects/Items/Scripts/FoodObject.cs"
+"Assets/Scriptable Objects/Items/Scripts/ItemDatabaseObject.cs"
 "Assets/Scriptable Objects/Items/Scripts/ItemObject.cs"
 -langversion:9.0
 
